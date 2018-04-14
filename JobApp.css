@@ -1,0 +1,40 @@
+#AccountInfo {
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+}
+legend {font-weight: bold;
+font-size: 36px;
+font-family: arial;
+color: #F80909;}
+
+label {font-weight: bold;
+font-family: arial;}
+
+input {margin-top: 10px;
+margin-bottom: 10px}
+
+body{background-image: url(circles-light.png);}
+
+h2{text-align: center;
+font-weight: bold;
+font-size: 48px;
+color: #F80909;
+padding-bottom: 8px;
+padding: 8px;
+border: solid 1px black;}
+
+#PersonalInfo {text-align: left;
+margin-left: auto;
+margin-right: auto;}
+
+#Availability {text-align: left;
+margin-left: auto;
+margin-right: auto;}
+
+#Personal2 {float: left;
+margin-left: auto;
+margin-right: auto;
+}
+#submit {font-weight: bold;
+float: left;}
